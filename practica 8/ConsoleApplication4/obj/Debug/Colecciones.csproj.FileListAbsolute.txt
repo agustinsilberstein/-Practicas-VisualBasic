@@ -1,0 +1,5 @@
+D:\VisualStudio\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\VisualStudio\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\VisualStudio\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\VisualStudio\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\VisualStudio\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
